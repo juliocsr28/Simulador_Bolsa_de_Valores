@@ -1,0 +1,23 @@
+{
+  "ValorEmAcao": 1698,
+  "compras": [
+    {
+      "NomeEmpresa": "EcoVolt",
+      "ValorUnitario": 955,
+      "Quantidade": 2,
+      "ValorTotal": 1910
+    },
+    {
+      "NomeEmpresa": "NeuroSoft",
+      "ValorUnitario": 3200,
+      "Quantidade": 1,
+      "ValorTotal": 3200
+    },
+    {
+      "NomeEmpresa": "NeuroSoft",
+      "ValorUnitario": 3200,
+      "Quantidade": 1,
+      "ValorTotal": 3200
+    }
+  ]
+}

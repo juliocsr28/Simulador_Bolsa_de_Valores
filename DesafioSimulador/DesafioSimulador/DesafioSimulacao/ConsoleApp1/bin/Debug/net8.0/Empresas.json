@@ -1,0 +1,39 @@
+[
+	{
+		"Nome": "NeuroSoft",
+		"Setor": "Tecnologia",
+		"ValorAcao": 3200,
+		"Descricao": "Empresa especializada em desenvolvimento de redes neurais e soluções de inteligência artificial para automação industrial e análise preditiva. Com presença global, a NeuroSoft é referência na inovação em deep learning."
+	},
+	{
+		"Nome": "Solaris Energy",
+		"Setor": "Energia Renovável",
+		"ValorAcao": 850,
+		"Descricao": "Líder no setor de energia limpa, a Solaris Energy investe em novas tecnologias para geração e armazenamento de energia solar. Seu compromisso com a sustentabilidade tem atraído investidores de todo o mundo."
+	},
+	{
+		"Nome": "QuantumDrive",
+		"Setor": "Automobilístico",
+		"ValorAcao": 2750,
+		"Descricao": "Pioneira na fabricação de veículos elétricos autônomos, a QuantumDrive busca revolucionar a mobilidade urbana com carros inteligentes, seguros e ecologicamente sustentáveis. Seu foco em baterias de longa duração atrai grande interesse do mercado."
+	},
+	{
+		"Nome": "ByteBank",
+		"Setor": "Financeiro",
+		"ValorAcao": 1900,
+		"Descricao": "Banco digital de próxima geração, oferecendo soluções de pagamento instantâneo, criptomoedas e investimentos automatizados. O ByteBank utiliza blockchain para garantir máxima segurança e transparência nas transações."
+	},
+	{
+		"Nome": "MedTech Solutions",
+		"Setor": "Saúde",
+		"ValorAcao": 1450,
+		"Descricao": "Referência no desenvolvimento de equipamentos médicos de ponta e softwares de diagnóstico assistido por IA. A MedTech Solutions busca aprimorar o atendimento médico por meio da tecnologia, reduzindo custos e salvando vidas."
+	},
+	{
+		"Nome": "EcoVolt",
+		"Setor": "Energia Renovável",
+		"ValorAcao": 960,
+		"Descricao": "Focada na geração de energia limpa, a EcoVolt desenvolve tecnologias para turbinas eólicas e painéis solares ultrafinos. Seu compromisso com a sustentabilidade e inovação atrai investidores do setor ambiental."
+	}
+
+]

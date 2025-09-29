@@ -1,0 +1,122 @@
+[
+  {
+    "Titulo": "NeuroSoft anuncia parceria com universidade",
+    "Descricao": "NeuroSoft firma parceria com uma das maiores universidades do mundo para impulsionar pesquisas em IA.",
+    "Efeito": 8,
+    "Empresa": "NeuroSoft"
+  },
+  {
+    "Titulo": "Solaris Energy inaugura nova usina solar",
+    "Descricao": "Nova usina solar da Solaris Energy entra em opera\u00E7\u00E3o, aumentando a capacidade de gera\u00E7\u00E3o de energia renov\u00E1vel.",
+    "Efeito": 6,
+    "Empresa": "Solaris Energy"
+  },
+  {
+    "Titulo": "QuantumDrive apresenta novo carro aut\u00F4nomo",
+    "Descricao": "QuantumDrive revela um novo modelo de ve\u00EDculo el\u00E9trico aut\u00F4nomo com autonomia recorde e tecnologia aprimorada.",
+    "Efeito": 9,
+    "Empresa": "QuantumDrive"
+  },
+  {
+    "Titulo": "ByteBank lan\u00E7a servi\u00E7o de pagamento instant\u00E2neo",
+    "Descricao": "O ByteBank revoluciona o setor financeiro com um novo sistema de transa\u00E7\u00F5es instant\u00E2neas via blockchain.",
+    "Efeito": 7,
+    "Empresa": "ByteBank"
+  },
+  {
+    "Titulo": "MedTech Solutions desenvolve IA para diagn\u00F3sticos",
+    "Descricao": "MedTech Solutions lan\u00E7a um novo software de intelig\u00EAncia artificial capaz de detectar doen\u00E7as com precis\u00E3o recorde.",
+    "Efeito": 10,
+    "Empresa": "MedTech Solutions"
+  },
+  {
+    "Titulo": "EcoVolt fecha f\u00E1brica devido a crise",
+    "Descricao": "A EcoVolt anuncia o fechamento de uma de suas f\u00E1bricas devido \u00E0 escassez de materiais para produ\u00E7\u00E3o.",
+    "Efeito": -5,
+    "Empresa": "EcoVolt"
+  },
+  {
+    "Titulo": "ByteBank sofre ataque cibern\u00E9tico",
+    "Descricao": "Um ataque hacker compromete dados de milhares de clientes do ByteBank, gerando desconfian\u00E7a no mercado.",
+    "Efeito": -8,
+    "Empresa": "ByteBank"
+  },
+  {
+    "Titulo": "MedTech Solutions expande para novos mercados",
+    "Descricao": "A MedTech Solutions anuncia sua entrada em mercados asi\u00E1ticos, aumentando sua presen\u00E7a global.",
+    "Efeito": 7,
+    "Empresa": "MedTech Solutions"
+  },
+  {
+    "Titulo": "Solaris Energy tem problemas com regulamenta\u00E7\u00E3o",
+    "Descricao": "Mudan\u00E7as nas regulamenta\u00E7\u00F5es ambientais atrasam projetos da Solaris Energy, afetando seus investimentos.",
+    "Efeito": -6,
+    "Empresa": "Solaris Energy"
+  },
+  {
+    "Titulo": "QuantumDrive sofre recall em ve\u00EDculos",
+    "Descricao": "Defeito em baterias obriga a QuantumDrive a realizar um grande recall de seus carros el\u00E9tricos.",
+    "Efeito": -9,
+    "Empresa": "QuantumDrive"
+  },
+  {
+    "Titulo": "NeuroSoft desenvolve IA revolucion\u00E1ria",
+    "Descricao": "NeuroSoft lan\u00E7a uma nova IA capaz de otimizar processos empresariais e reduzir custos operacionais.",
+    "Efeito": 8,
+    "Empresa": "NeuroSoft"
+  },
+  {
+    "Titulo": "Solaris Energy recebe investimento bilion\u00E1rio",
+    "Descricao": "Solaris Energy atrai investidores globais para expandir sua produ\u00E7\u00E3o de energia limpa.",
+    "Efeito": 7,
+    "Empresa": "Solaris Energy"
+  },
+  {
+    "Titulo": "QuantumDrive estabelece parceria com grande montadora",
+    "Descricao": "QuantumDrive firma parceria com uma das maiores montadoras do mundo para produzir ve\u00EDculos el\u00E9tricos em massa.",
+    "Efeito": 9,
+    "Empresa": "QuantumDrive"
+  },
+  {
+    "Titulo": "ByteBank revoluciona pagamentos digitais",
+    "Descricao": "O ByteBank lan\u00E7a um novo sistema de transa\u00E7\u00F5es financeiras sem taxas, atraindo milh\u00F5es de novos clientes.",
+    "Efeito": 10,
+    "Empresa": "ByteBank"
+  },
+  {
+    "Titulo": "NeuroSoft enfrenta vazamento de dados",
+    "Descricao": "Um ataque hacker exp\u00F5e dados confidenciais de clientes da NeuroSoft, causando uma crise de confian\u00E7a.",
+    "Efeito": -8,
+    "Empresa": "NeuroSoft"
+  },
+  {
+    "Titulo": "Solaris Energy perde contrato com governo",
+    "Descricao": "O governo decide cancelar um grande contrato com a Solaris Energy, afetando seus planos de expans\u00E3o.",
+    "Efeito": -6,
+    "Empresa": "Solaris Energy"
+  },
+  {
+    "Titulo": "QuantumDrive atrasada na entrega de novos modelos",
+    "Descricao": "Problemas na cadeia de suprimentos for\u00E7am a QuantumDrive a adiar o lan\u00E7amento de seu novo carro el\u00E9trico.",
+    "Efeito": -7,
+    "Empresa": "QuantumDrive"
+  },
+  {
+    "Titulo": "ByteBank sofre san\u00E7\u00E3o por falhas em seguran\u00E7a",
+    "Descricao": "Reguladores imp\u00F5em multas pesadas ao ByteBank ap\u00F3s descobrirem vulnerabilidades em seu sistema.",
+    "Efeito": -9,
+    "Empresa": "ByteBank"
+  },
+  {
+    "Titulo": "MedTech Solutions tem estudo cl\u00EDnico reprovado",
+    "Descricao": "Um estudo promissor da MedTech Solutions falha nos testes finais, prejudicando suas expectativas de mercado.",
+    "Efeito": -5,
+    "Empresa": "MedTech Solutions"
+  },
+  {
+    "Titulo": "EcoVolt enfrenta protestos ambientais",
+    "Descricao": "Grupos ambientalistas acusam a EcoVolt de impactos ecol\u00F3gicos em sua nova f\u00E1brica, afetando sua imagem.",
+    "Efeito": -6,
+    "Empresa": "EcoVolt"
+  }
+]
